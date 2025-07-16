@@ -1,0 +1,7 @@
+[droplet]
+159.223.217.23 ansible_ssh_private_key_file=~/.ssh/digital_ocean_key
+64.225.68.50 ansible_ssh_private_key_file=~/.ssh/digital_ocean_key
+
+[droplet:vars]
+ansible_user=root
+ansible_python_interpreter=/usr/bin/python3.12

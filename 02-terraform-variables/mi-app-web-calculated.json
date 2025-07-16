@@ -1,0 +1,1 @@
+{"derived_config":{"backup_retention":7,"max_connections":100,"monitoring_enabled":false},"is_production":false,"metadata":{"CreatedAt":"2025-07-15T15:40:44Z","Environment":"dev","ManagedBy":"terraform","Project":"mi-app-web"},"port_analysis":{"private_services":["api","cache","database"],"public_services":["web"]},"total_storage":"12GB"}
